@@ -1,0 +1,309 @@
+TARGET,NAME_CONTRACT_TYPE,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,AMT_CREDIT,AMT_ANNUITY,AMT_GOODS_PRICE,NAME_TYPE_SUITE,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,REGION_POPULATION_RELATIVE,DAYS_BIRTH,DAYS_EMPLOYED,DAYS_REGISTRATION
+0,Cash loans,F,Y,Y,0,180000.0,755190.0,36459.0,675000.0,Family,Commercial associate,Secondary / secondary special,Married,House / apartment,0.008625,-18667,-2150,-716.0
+0,Cash loans,M,N,Y,0,270000.0,868797.0,34587.0,702000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.04622,-17701,-1132,-4002.0
+1,Cash loans,M,Y,Y,0,315000.0,1006920.0,39933.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.028663,-15597,-3752,-3722.0
+1,Cash loans,M,Y,N,2,342000.0,476509.5,37647.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.002506,-13414,-1415,-631.0
+0,Cash loans,F,Y,Y,1,171000.0,332473.5,22347.0,274500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.0060079999999999,-10710,-277,-4892.0
+0,Cash loans,F,N,Y,1,171000.0,656811.0,35761.5,567000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.025164,-18705,-2742,-3963.0
+0,Cash loans,M,Y,N,0,117000.0,1078200.0,31653.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.018801,-17935,-2459,-7343.0
+0,Cash loans,M,N,N,3,135000.0,494550.0,39780.0,450000.0,Family,Working,Secondary / secondary special,Married,Rented apartment,0.018801,-14292,-857,-1154.0
+0,Revolving loans,F,Y,Y,0,90000.0,270000.0,13500.0,270000.0,Unaccompanied,Pensioner,Higher education,Married,House / apartment,0.035792,-21797,365243,-1371.0
+0,Cash loans,F,N,Y,0,112500.0,675000.0,21906.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.01885,-19427,-2252,-6944.0
+0,Cash loans,F,N,Y,0,180000.0,528633.0,20682.0,472500.0,Unaccompanied,Pensioner,Secondary / secondary special,Widow,House / apartment,0.005084,-21272,365243,-10422.0
+0,Cash loans,F,N,Y,0,229500.0,1528200.0,53118.0,1350000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.04622,-18314,-11558,-11995.0
+0,Cash loans,F,N,Y,1,171000.0,609187.5,25938.0,544500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.008575,-10777,-2449,-10688.0
+0,Cash loans,F,Y,Y,0,121500.0,337500.0,25362.0,337500.0,Unaccompanied,State servant,Higher education,Married,House / apartment,0.028663,-18539,-1839,-10037.0
+0,Cash loans,M,N,Y,2,135000.0,450000.0,21109.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,Rented apartment,0.006629,-11620,-2019,-3703.0
+1,Cash loans,M,Y,Y,0,225000.0,675000.0,32602.5,675000.0,"Spouse, partner",Working,Secondary / secondary special,Married,House / apartment,0.028663,-20363,-1316,-1145.0
+0,Cash loans,M,N,Y,0,315000.0,1046142.0,30717.0,913500.0,Unaccompanied,Working,Higher education,Married,With parents,0.022625,-15155,-2740,-3808.0
+0,Cash loans,F,N,Y,0,53100.0,675000.0,21906.0,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.030755,-16818,365243,-10221.0
+0,Cash loans,F,N,Y,0,135000.0,948582.0,27864.0,679500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Widow,House / apartment,0.010276,-16152,-1677,-6392.0
+0,Cash loans,F,Y,Y,0,315000.0,1800000.0,49630.5,1800000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.02461,-19608,-977,-13631.0
+0,Cash loans,F,N,N,2,126000.0,284400.0,13257.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.02461,-11027,-1383,-3376.0
+0,Cash loans,F,N,N,0,405000.0,781920.0,61776.0,675000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.002506,-17024,-1646,-1527.0
+0,Cash loans,F,N,Y,1,180000.0,1024290.0,30078.0,855000.0,Family,Working,Secondary / secondary special,Civil marriage,House / apartment,0.031329,-16626,-9704,-6154.0
+0,Cash loans,F,N,Y,0,202500.0,640080.0,24259.5,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.00702,-20726,-10702,-5953.0
+0,Cash loans,M,Y,Y,0,126000.0,441000.0,21577.5,441000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.0145199999999999,-9336,-927,-3484.0
+0,Cash loans,F,N,Y,0,157500.0,585000.0,23328.0,585000.0,Family,Pensioner,Secondary / secondary special,Married,House / apartment,0.026392,-20574,365243,-5995.0
+0,Cash loans,F,N,N,0,135000.0,1024740.0,43546.5,900000.0,Family,Commercial associate,Secondary / secondary special,Married,House / apartment,0.032561,-18704,-4583,-4160.0
+0,Cash loans,F,N,Y,0,157500.0,521280.0,26743.5,450000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.04622,-10116,-360,-1193.0
+0,Cash loans,M,Y,N,1,180000.0,473760.0,46989.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.008575,-15155,-1674,-8993.0
+0,Cash loans,F,N,Y,1,90000.0,199080.0,11245.5,157500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.035792,-11914,-3822,-5949.0
+0,Cash loans,M,Y,Y,1,162000.0,450000.0,32877.0,450000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.026392,-9882,-1817,-4452.0
+0,Cash loans,F,N,Y,0,157500.0,675000.0,21775.5,675000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.026392,-19443,-2442,-2208.0
+0,Cash loans,M,Y,Y,0,135000.0,315000.0,13473.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.011703,-15395,-3210,-7987.0
+0,Revolving loans,M,Y,Y,0,135000.0,202500.0,10125.0,202500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.035792,-14383,-1740,-2796.0
+0,Cash loans,M,N,N,0,270000.0,896157.0,39604.5,801000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.02461,-17010,-4306,-3059.0
+0,Revolving loans,F,Y,N,2,121500.0,225000.0,11250.0,225000.0,Unaccompanied,Working,Higher education,Civil marriage,With parents,0.035792,-11760,-418,-944.0
+0,Cash loans,F,N,Y,0,144000.0,453514.5,23283.0,391500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.035792,-8560,-1090,-2852.0
+0,Cash loans,F,Y,N,1,162000.0,675000.0,32472.0,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0.030755,-9882,365243,-4649.0
+0,Cash loans,M,N,Y,0,157500.0,460858.5,22545.0,324000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.0088659999999999,-10135,-1931,-4504.0
+0,Cash loans,F,N,N,0,90000.0,630000.0,20322.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.022625,-18682,-2629,-11984.0
+0,Cash loans,F,N,Y,0,99000.0,286704.0,13923.0,247500.0,Family,Pensioner,Secondary / secondary special,Widow,House / apartment,0.009175,-23718,365243,-11647.0
+0,Cash loans,M,Y,N,0,112500.0,364500.0,16992.0,364500.0,Unaccompanied,Pensioner,Lower secondary,Married,House / apartment,0.018029,-23248,365243,-53.0
+0,Cash loans,F,Y,Y,0,225000.0,900000.0,32017.5,900000.0,Unaccompanied,Pensioner,Incomplete higher,Widow,House / apartment,0.026392,-20367,365243,-14434.0
+0,Cash loans,M,N,Y,0,225000.0,254700.0,25321.5,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.031329,-24336,-2652,-2640.0
+0,Cash loans,F,N,Y,1,225000.0,752116.5,41994.0,688500.0,Unaccompanied,Commercial associate,Higher education,Single / not married,With parents,0.019101,-14739,-4952,-1094.0
+0,Cash loans,F,N,N,0,157500.0,107820.0,7798.5,90000.0,Unaccompanied,Working,Secondary / secondary special,Married,Municipal apartment,0.0105,-14760,-4006,-1127.0
+0,Cash loans,M,Y,Y,0,364500.0,742500.0,21838.5,742500.0,Unaccompanied,Working,Higher education,Single / not married,House / apartment,0.018209,-12044,-662,-1198.0
+0,Cash loans,F,N,N,0,171000.0,787500.0,23026.5,787500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.010556,-14199,-7445,-960.0
+0,Cash loans,M,Y,Y,1,135000.0,1125171.0,41697.0,1035000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.020246,-16205,-7536,-4610.0
+0,Cash loans,F,N,Y,0,135000.0,500566.5,49639.5,481500.0,Unaccompanied,State servant,Secondary / secondary special,Married,House / apartment,0.035792,-20311,-278,-3514.0
+0,Revolving loans,F,Y,Y,0,126000.0,225000.0,11250.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.005313,-13241,-667,-4329.0
+0,Cash loans,F,Y,Y,0,202500.0,587619.0,17181.0,490500.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,House / apartment,0.04622,-19986,-1586,-8322.0
+0,Cash loans,F,Y,Y,0,315000.0,651595.5,31477.5,526500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.022625,-19638,-1893,-9686.0
+0,Cash loans,F,N,N,2,67500.0,675000.0,21906.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,With parents,0.00712,-12358,-2073,-987.0
+0,Cash loans,F,N,Y,0,180000.0,675000.0,21906.0,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.0145199999999999,-20185,365243,-7309.0
+1,Cash loans,F,N,Y,0,157500.0,291915.0,19638.0,252000.0,Unaccompanied,Pensioner,Higher education,Separated,House / apartment,0.006852,-23155,365243,-2380.0
+0,Cash loans,M,Y,Y,0,270000.0,1006920.0,40063.5,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,Municipal apartment,0.0116569999999999,-11322,-3664,-1112.0
+0,Cash loans,M,N,Y,2,202500.0,479700.0,50503.5,450000.0,Family,Working,Higher education,Married,House / apartment,0.00496,-15160,-2463,-8713.0
+0,Cash loans,F,N,N,1,233406.0,1350000.0,34128.0,1350000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.032561,-11753,-1673,-1740.0
+0,Revolving loans,F,N,Y,1,162000.0,337500.0,16875.0,337500.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.008575,-14995,-1174,-9013.0
+0,Cash loans,F,Y,N,1,292500.0,1072809.0,31495.5,895500.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.01885,-13693,-3117,-3331.0
+0,Cash loans,F,N,Y,0,202500.0,1193580.0,35028.0,855000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.020713,-17773,-1242,-5502.0
+0,Cash loans,F,N,Y,0,171000.0,247500.0,18139.5,247500.0,Unaccompanied,Pensioner,Secondary / secondary special,Widow,House / apartment,0.018634,-23776,365243,-8765.0
+0,Cash loans,F,N,Y,0,315000.0,900000.0,57519.0,900000.0,Unaccompanied,Working,Higher education,Widow,House / apartment,0.022625,-18362,-7086,-8743.0
+0,Cash loans,F,N,N,0,180000.0,269550.0,12001.5,225000.0,Unaccompanied,Pensioner,Higher education,Single / not married,House / apartment,0.006233,-23549,365243,-11074.0
+0,Cash loans,F,N,Y,0,157500.0,675000.0,19867.5,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.035792,-17511,-587,-1519.0
+0,Cash loans,M,Y,Y,1,157500.0,352044.0,17253.0,247500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018634,-16122,-3274,-4528.0
+0,Cash loans,F,N,Y,0,56250.0,79128.0,5755.5,72000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.01885,-14657,-5793,-2317.0
+0,Cash loans,M,N,N,0,157500.0,167895.0,15696.0,157500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.020246,-8575,-630,-3441.0
+0,Cash loans,F,N,Y,0,112500.0,743031.0,39717.0,688500.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.025164,-18381,-2482,-4430.0
+0,Cash loans,M,Y,Y,0,126000.0,526500.0,22306.5,526500.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.018029,-20782,365243,-10613.0
+0,Cash loans,F,N,Y,1,135000.0,194076.0,15367.5,162000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.031329,-17138,-8276,-258.0
+1,Revolving loans,M,Y,N,0,112500.0,180000.0,9000.0,180000.0,Unaccompanied,Working,Higher education,Civil marriage,House / apartment,0.018029,-11239,-1795,-47.0
+0,Cash loans,F,N,Y,2,148500.0,545040.0,25537.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.006629,-13414,-1464,-1093.0
+0,Cash loans,M,N,Y,0,157500.0,645903.0,34218.0,598500.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.019101,-23389,365243,-9584.0
+0,Cash loans,M,N,N,1,382500.0,247275.0,19953.0,225000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.0038179999999999,-15618,-864,-3291.0
+0,Revolving loans,F,N,Y,2,135000.0,270000.0,13500.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.030755,-13651,-319,-2139.0
+0,Cash loans,F,N,Y,2,157500.0,728460.0,53140.5,675000.0,Family,Working,Higher education,Married,House / apartment,0.008625,-12530,-4205,-396.0
+0,Cash loans,F,N,Y,0,202500.0,760225.5,30280.5,679500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.016612,-15810,-4478,-9852.0
+0,Cash loans,M,Y,N,0,135000.0,305221.5,24246.0,252000.0,"Spouse, partner",Commercial associate,Secondary / secondary special,Married,House / apartment,0.018029,-12989,-804,-4777.0
+0,Revolving loans,F,N,Y,0,139500.0,270000.0,13500.0,270000.0,Family,Commercial associate,Higher education,Civil marriage,House / apartment,0.030755,-10259,-510,-3626.0
+0,Cash loans,F,N,Y,0,495000.0,945000.0,40167.0,945000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.026392,-17683,-1302,-4341.0
+0,Cash loans,M,Y,Y,0,135000.0,607500.0,25668.0,607500.0,Unaccompanied,Working,Secondary / secondary special,Separated,House / apartment,0.015221,-13292,-304,-7315.0
+0,Cash loans,M,N,Y,0,225000.0,509922.0,31194.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.006629,-16587,-4438,-5260.0
+0,Cash loans,F,N,N,1,126000.0,521280.0,27423.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Married,With parents,0.006629,-11300,-2132,-705.0
+0,Cash loans,M,N,Y,0,67500.0,325908.0,14485.5,247500.0,Unaccompanied,Working,Secondary / secondary special,Widow,House / apartment,0.015221,-16475,-1926,-597.0
+1,Revolving loans,F,N,Y,1,54000.0,135000.0,6750.0,135000.0,Family,Working,Secondary / secondary special,Married,Office apartment,0.018209,-17870,-307,-3574.0
+0,Cash loans,M,N,Y,0,90000.0,612612.0,26086.5,495000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.020713,-17871,-1007,-6600.0
+0,Cash loans,M,N,N,1,157500.0,640080.0,31261.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0038179999999999,-17384,-351,-8926.0
+0,Cash loans,M,Y,N,0,225000.0,1312110.0,55723.5,1125000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.030755,-11109,-2714,-2437.0
+0,Cash loans,F,Y,Y,0,157500.0,261000.0,28107.0,261000.0,Unaccompanied,Working,Higher education,Single / not married,House / apartment,0.006296,-8910,-1029,-2781.0
+0,Cash loans,F,N,Y,2,135000.0,695439.0,22563.0,580500.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.016612,-12785,-2248,-6719.0
+0,Cash loans,F,N,Y,0,135000.0,468121.5,20749.5,355500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.010966,-17665,-1013,-4671.0
+0,Cash loans,M,Y,Y,0,157500.0,157500.0,16668.0,157500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.010643,-11755,-2331,-5638.0
+0,Cash loans,F,Y,N,0,270000.0,2250000.0,59485.5,2250000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.025164,-22776,-12222,-7481.0
+0,Cash loans,F,N,Y,0,211500.0,270126.0,13923.0,193500.0,Family,Working,Higher education,Widow,House / apartment,0.030755,-18175,-123,-3071.0
+0,Cash loans,M,N,N,0,135000.0,284400.0,14445.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.02461,-9189,-334,-6831.0
+0,Cash loans,F,Y,Y,0,225000.0,1205896.5,35388.0,1053000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.0035409999999999,-15329,-2148,-1468.0
+0,Cash loans,F,N,Y,0,247500.0,1190340.0,63549.0,1125000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.006852,-20898,-7287,-12649.0
+0,Cash loans,F,N,Y,1,81000.0,398160.0,26739.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.035792,-13926,-5341,-982.0
+0,Cash loans,F,N,Y,0,93010.5,331632.0,31005.0,315000.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,House / apartment,0.032561,-19683,-980,-4550.0
+0,Cash loans,F,N,Y,0,90000.0,284400.0,18643.5,225000.0,Unaccompanied,Working,Secondary / secondary special,Widow,House / apartment,0.035792,-23890,-4365,-13623.0
+0,Cash loans,M,N,Y,0,202500.0,194922.0,16857.0,157500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.020246,-22334,-1866,-184.0
+0,Cash loans,F,N,Y,0,225000.0,545040.0,31419.0,450000.0,Family,Commercial associate,Secondary / secondary special,Widow,House / apartment,0.032561,-22805,-1745,-8167.0
+1,Cash loans,F,N,Y,0,225000.0,225000.0,10953.0,225000.0,Unaccompanied,Commercial associate,Higher education,Separated,House / apartment,0.028663,-18427,-6169,-7091.0
+0,Cash loans,F,N,Y,0,67500.0,275040.0,10498.5,180000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.019101,-9962,-1629,-3927.0
+0,Cash loans,F,N,N,2,121500.0,450000.0,21649.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.006207,-10509,-1661,-3183.0
+0,Cash loans,M,N,Y,1,202500.0,1080000.0,45886.5,1080000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.003069,-12783,-1695,-6448.0
+0,Cash loans,F,N,Y,0,135000.0,270000.0,19332.0,270000.0,Unaccompanied,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0.028663,-22419,365243,-2502.0
+0,Cash loans,F,N,Y,0,94500.0,353241.0,20407.5,319500.0,"Spouse, partner",Working,Secondary / secondary special,Married,House / apartment,0.00496,-18433,-7202,-3951.0
+1,Cash loans,M,N,Y,2,198000.0,1762110.0,48586.5,1575000.0,Unaccompanied,Working,Secondary / secondary special,Married,With parents,0.018029,-13527,-4087,-1335.0
+0,Cash loans,F,N,Y,0,112500.0,408780.0,15538.5,337500.0,Family,Commercial associate,Secondary / secondary special,Married,House / apartment,0.0060079999999999,-19864,-2136,-4242.0
+0,Revolving loans,M,N,Y,0,441000.0,855000.0,42750.0,855000.0,Unaccompanied,State servant,Higher education,Single / not married,House / apartment,0.072508,-16707,-1102,-1112.0
+0,Cash loans,F,N,Y,0,58500.0,571486.5,24340.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.020246,-18991,-1454,-6770.0
+0,Cash loans,M,Y,Y,0,180000.0,463284.0,22531.5,382500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.014464,-13029,-2275,-5540.0
+0,Cash loans,M,N,N,0,90000.0,117162.0,12559.5,103500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.010966,-9329,-871,-7701.0
+0,Cash loans,F,N,N,3,90000.0,254700.0,14751.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,Rented apartment,0.0145199999999999,-14653,-800,-3790.0
+0,Cash loans,F,N,N,0,157500.0,450000.0,21109.5,450000.0,Unaccompanied,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0.026392,-21144,365243,-9656.0
+0,Revolving loans,F,N,Y,2,180000.0,337500.0,16875.0,337500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.032561,-12946,-569,-419.0
+0,Cash loans,F,N,Y,0,297000.0,728460.0,41949.0,675000.0,Family,Pensioner,Higher education,Married,House / apartment,0.072508,-24749,365243,-1099.0
+0,Cash loans,M,Y,Y,0,148500.0,799299.0,38583.0,702000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.00712,-14289,-3676,-4957.0
+1,Cash loans,F,Y,Y,0,81000.0,315000.0,15318.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.015221,-18894,-1278,-6174.0
+0,Cash loans,F,N,Y,0,90000.0,1125000.0,32895.0,1125000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.010966,-21052,365243,-294.0
+0,Cash loans,F,Y,N,0,112500.0,1125000.0,33025.5,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.026392,-15278,-2038,-115.0
+0,Cash loans,M,N,Y,0,112500.0,260568.0,27490.5,247500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,With parents,0.008019,-11409,-1404,-11339.0
+0,Cash loans,F,N,Y,0,135000.0,675000.0,19071.0,675000.0,Family,State servant,Secondary / secondary special,Married,House / apartment,0.030755,-12644,-2485,-3419.0
+0,Cash loans,M,N,Y,0,270000.0,1096020.0,55962.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0096569999999999,-14549,-774,-1641.0
+1,Cash loans,M,N,N,0,175500.0,808650.0,23773.5,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.00702,-21257,-4465,-12465.0
+0,Cash loans,F,N,N,0,180000.0,99000.0,10273.5,99000.0,Unaccompanied,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0.00712,-15196,365243,-7785.0
+0,Cash loans,F,N,N,0,117000.0,945000.0,27630.0,945000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.035792,-11485,-674,-5020.0
+0,Cash loans,M,Y,N,0,112500.0,545040.0,36553.5,450000.0,Unaccompanied,Working,Higher education,Civil marriage,With parents,0.010556,-10085,-1009,-4615.0
+0,Cash loans,M,N,Y,0,270000.0,1695123.0,59049.0,1548000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.005144,-19394,-2867,-8614.0
+0,Revolving loans,F,N,Y,0,103500.0,270000.0,13500.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.020246,-15215,-2435,-510.0
+0,Cash loans,F,N,Y,0,171000.0,724981.5,35005.5,648000.0,Family,Working,Secondary / secondary special,Civil marriage,House / apartment,0.025164,-16396,-4892,-8003.0
+0,Cash loans,M,Y,Y,1,247500.0,473760.0,53581.5,450000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.030755,-15041,-857,-20.0
+0,Cash loans,F,N,Y,2,315000.0,1078200.0,38331.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.0072739999999999,-10232,-243,-3958.0
+0,Cash loans,F,N,Y,2,207000.0,1291500.0,51219.0,1188000.0,Unaccompanied,State servant,Secondary / secondary special,Married,House / apartment,0.015221,-13381,-6774,-5109.0
+0,Cash loans,F,N,Y,0,73350.0,247275.0,17338.5,225000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.007114,-22113,365243,-2536.0
+1,Cash loans,M,N,Y,0,225000.0,675000.0,53460.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Separated,House / apartment,0.031329,-19256,-574,-3195.0
+0,Revolving loans,F,N,Y,1,90000.0,270000.0,13500.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Separated,House / apartment,0.006296,-15918,-1486,-3096.0
+0,Cash loans,F,N,N,0,675000.0,1506816.0,49797.0,1350000.0,"Spouse, partner",Commercial associate,Higher education,Married,House / apartment,0.04622,-12710,-2330,-3695.0
+0,Cash loans,M,N,N,0,112500.0,539100.0,29376.0,450000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.022625,-20986,365243,-10622.0
+0,Cash loans,F,N,Y,0,112500.0,450000.0,23107.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018209,-18783,-375,-8797.0
+0,Cash loans,F,N,Y,0,270000.0,1249740.0,69912.0,1125000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.009175,-16600,-1829,-1321.0
+0,Cash loans,M,Y,N,0,202500.0,1061658.0,28134.0,760500.0,Family,Commercial associate,Secondary / secondary special,Married,House / apartment,0.025164,-21266,-2436,-2759.0
+0,Revolving loans,F,N,Y,0,270000.0,900000.0,45000.0,900000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,House / apartment,0.04622,-13456,-1659,-7204.0
+0,Cash loans,M,Y,Y,0,202500.0,1125000.0,32895.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0116569999999999,-19043,-311,-5810.0
+0,Cash loans,M,N,Y,2,315000.0,1130112.0,37480.5,1012500.0,Unaccompanied,Commercial associate,Higher education,Separated,House / apartment,0.008068,-15889,-230,-2588.0
+0,Cash loans,F,N,N,1,157500.0,629320.5,26793.0,508500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,With parents,0.010966,-13450,-4402,-8483.0
+0,Cash loans,M,N,Y,0,171000.0,512064.0,25033.5,360000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.003069,-19200,-834,-1480.0
+0,Cash loans,M,N,Y,3,112500.0,247275.0,22680.0,225000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.028663,-10624,-2158,-175.0
+0,Cash loans,M,N,N,1,180000.0,157500.0,12442.5,157500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.028663,-9567,-1093,-3595.0
+0,Cash loans,M,Y,Y,3,99000.0,420718.5,17955.0,319500.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.018029,-16512,365243,-5968.0
+0,Cash loans,F,N,Y,0,112500.0,1105083.0,39825.0,904500.0,Unaccompanied,Working,Incomplete higher,Married,House / apartment,0.010643,-14855,-4835,-3291.0
+0,Cash loans,M,Y,N,0,144000.0,1236816.0,36292.5,1080000.0,Unaccompanied,State servant,Higher education,Married,House / apartment,0.031329,-22727,-1048,-1766.0
+0,Cash loans,M,Y,Y,0,112500.0,148500.0,17752.5,148500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.028663,-8460,-584,-5746.0
+0,Cash loans,F,N,Y,0,81000.0,376920.0,20574.0,270000.0,Unaccompanied,Working,Incomplete higher,Married,House / apartment,0.010966,-8086,-517,-8067.0
+1,Cash loans,F,N,N,0,225000.0,945000.0,25987.5,945000.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,House / apartment,0.0096569999999999,-13596,-4588,-47.0
+0,Cash loans,F,N,Y,0,225000.0,792162.0,43101.0,630000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.006305,-21672,-2850,-5210.0
+0,Cash loans,M,Y,Y,1,157500.0,225000.0,23625.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.025164,-14386,-4661,-3859.0
+0,Revolving loans,F,Y,N,0,67500.0,135000.0,6750.0,135000.0,Unaccompanied,Working,Incomplete higher,Single / not married,With parents,0.006852,-9888,-744,-3084.0
+0,Cash loans,F,N,Y,0,144000.0,406597.5,29047.5,351000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.01885,-14802,-616,-1260.0
+0,Cash loans,M,Y,Y,2,216000.0,961146.0,31135.5,688500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.009334,-13394,-5158,-3455.0
+0,Cash loans,M,N,N,1,63000.0,254700.0,20119.5,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.006305,-10813,-1031,-1858.0
+0,Cash loans,F,Y,Y,0,112500.0,675000.0,22437.0,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.007114,-21676,365243,-6000.0
+0,Cash loans,M,N,Y,2,180000.0,252000.0,11227.5,252000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018634,-14504,-3374,-612.0
+0,Cash loans,F,Y,Y,1,270000.0,808650.0,26217.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Widow,House / apartment,0.009549,-11321,-3119,-2888.0
+0,Cash loans,F,Y,Y,2,90000.0,352656.0,21703.5,279000.0,Family,State servant,Higher education,Married,House / apartment,0.006852,-11131,-405,-2082.0
+0,Cash loans,M,Y,Y,0,261000.0,1174090.5,49873.5,1080000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.0105,-22620,365243,-2813.0
+0,Cash loans,M,Y,N,2,135000.0,448299.0,36072.0,387000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.006852,-11375,-274,-726.0
+1,Cash loans,F,N,Y,1,180000.0,450000.0,21109.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,Rented apartment,0.028663,-12541,-1992,-3730.0
+0,Cash loans,F,N,Y,0,90000.0,814041.0,23931.0,679500.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.003069,-18794,-3355,-538.0
+0,Cash loans,M,N,Y,1,247500.0,675000.0,26901.0,675000.0,Unaccompanied,State servant,Higher education,Married,House / apartment,0.018209,-13094,-4468,-4565.0
+0,Cash loans,M,Y,N,0,135000.0,241618.5,27454.5,229500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0105,-9204,-599,-4021.0
+0,Cash loans,M,N,Y,1,225000.0,523597.5,25317.0,468000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.04622,-17380,-3674,-7054.0
+0,Cash loans,M,N,Y,0,180000.0,533668.5,25803.0,477000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.020713,-13606,-1923,-4275.0
+0,Cash loans,F,N,N,0,171000.0,725328.0,26050.5,540000.0,Unaccompanied,Working,Higher education,Civil marriage,House / apartment,0.008019,-15654,-3423,-3444.0
+0,Cash loans,M,N,N,0,337500.0,927252.0,24588.0,774000.0,Family,Working,Secondary / secondary special,Single / not married,House / apartment,0.0196889999999999,-18443,-3240,-5436.0
+1,Revolving loans,F,N,Y,0,225000.0,585000.0,29250.0,585000.0,Family,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0.018209,-22425,365243,-10936.0
+0,Cash loans,F,N,N,1,202500.0,534204.0,28588.5,495000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,Municipal apartment,0.072508,-17629,-9966,-9958.0
+0,Cash loans,F,N,Y,0,135000.0,1575000.0,41679.0,1575000.0,Family,Pensioner,Secondary / secondary special,Married,House / apartment,0.028663,-21602,365243,-3020.0
+0,Cash loans,F,N,N,0,144000.0,1546020.0,45333.0,1350000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Widow,House / apartment,0.018634,-18169,-2119,-5432.0
+0,Revolving loans,F,N,Y,1,45000.0,135000.0,6750.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,Co-op apartment,0.018634,-7917,-659,-7886.0
+0,Cash loans,F,N,Y,0,72000.0,50940.0,5535.0,45000.0,Family,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0.00733,-23149,365243,-12410.0
+0,Cash loans,F,N,Y,0,157500.0,161730.0,8257.5,135000.0,Unaccompanied,Working,Higher education,Single / not married,House / apartment,0.0105,-10214,-1059,-4246.0
+0,Cash loans,F,N,Y,0,67500.0,130500.0,5049.0,130500.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.026392,-20611,365243,-4342.0
+0,Cash loans,M,Y,N,0,112500.0,526491.0,24394.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.016612,-16377,-4651,-3395.0
+0,Cash loans,F,N,N,0,301500.0,673659.0,70870.5,648000.0,Unaccompanied,Commercial associate,Higher education,Married,With parents,0.019101,-11654,-2701,-3556.0
+0,Cash loans,F,N,Y,0,153000.0,296280.0,18256.5,225000.0,Unaccompanied,Pensioner,Secondary / secondary special,Widow,House / apartment,0.003813,-24253,365243,-3793.0
+0,Cash loans,F,N,N,0,90000.0,450000.0,22990.5,450000.0,Family,Commercial associate,Higher education,Married,House / apartment,0.028663,-9310,-278,-582.0
+0,Cash loans,M,Y,Y,2,157500.0,545040.0,26640.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.011703,-14189,-723,-210.0
+0,Cash loans,M,Y,N,1,135000.0,450000.0,30442.5,450000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.015221,-11706,-4167,-2734.0
+0,Cash loans,F,N,Y,2,112500.0,526491.0,19039.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0088659999999999,-13730,-2016,-1407.0
+0,Cash loans,M,Y,Y,1,180000.0,728460.0,46728.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.003069,-16348,-5469,-8093.0
+0,Cash loans,F,N,Y,1,112500.0,808650.0,26217.0,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.030755,-19649,365243,-12126.0
+0,Cash loans,F,N,N,3,135000.0,225000.0,10944.0,225000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.019101,-12617,-209,-1366.0
+0,Cash loans,F,N,Y,0,63000.0,76410.0,8356.5,67500.0,Family,Pensioner,Secondary / secondary special,Married,Office apartment,0.010147,-21491,365243,-2064.0
+0,Revolving loans,F,N,Y,0,67500.0,180000.0,9000.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Separated,House / apartment,0.010147,-16229,-237,-8569.0
+0,Cash loans,M,Y,Y,1,180000.0,675000.0,17806.5,675000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.018634,-10944,-1546,-10043.0
+0,Revolving loans,F,Y,Y,0,157500.0,450000.0,22500.0,450000.0,Family,Working,Higher education,Married,House / apartment,0.009175,-16511,-1913,-9036.0
+0,Cash loans,F,N,Y,0,67500.0,454500.0,20020.5,454500.0,Family,Pensioner,Secondary / secondary special,Married,House / apartment,0.0196889999999999,-22224,365243,-11212.0
+0,Cash loans,M,N,N,0,135000.0,675000.0,21906.0,675000.0,"Spouse, partner",Pensioner,Secondary / secondary special,Married,House / apartment,0.026392,-23117,365243,-10275.0
+0,Cash loans,M,Y,Y,2,225000.0,450000.0,17140.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.016612,-11843,-2172,-2175.0
+0,Cash loans,F,N,Y,1,45000.0,47970.0,4873.5,45000.0,"Spouse, partner",Working,Secondary / secondary special,Married,House / apartment,0.018209,-11276,-815,-902.0
+0,Cash loans,F,N,Y,0,202500.0,562491.0,24907.5,454500.0,Family,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0.018634,-21615,365243,-9772.0
+0,Cash loans,M,N,Y,0,54000.0,225000.0,9909.0,225000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.0145199999999999,-23462,365243,-52.0
+0,Cash loans,M,Y,N,0,63000.0,127350.0,13176.0,112500.0,"Spouse, partner",Pensioner,Secondary / secondary special,Married,House / apartment,0.006305,-23148,365243,-5763.0
+0,Cash loans,M,Y,N,0,135000.0,454500.0,20151.0,454500.0,Unaccompanied,Pensioner,Incomplete higher,Single / not married,House / apartment,0.019101,-15558,365243,-6165.0
+0,Cash loans,F,Y,Y,0,225000.0,1546020.0,50004.0,1350000.0,Unaccompanied,Working,Higher education,Separated,House / apartment,0.030755,-16022,-3955,-16.0
+0,Revolving loans,F,N,Y,0,67500.0,135000.0,6750.0,135000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.01885,-19183,-512,-2659.0
+0,Cash loans,F,N,N,0,90000.0,1006920.0,42790.5,900000.0,Unaccompanied,State servant,Secondary / secondary special,Married,House / apartment,0.031329,-16181,-8976,-4421.0
+0,Cash loans,F,N,Y,0,202500.0,450000.0,30204.0,450000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.026392,-18787,365243,-11892.0
+0,Cash loans,F,Y,Y,0,81000.0,835380.0,36796.5,675000.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.020246,-22294,365243,-1378.0
+0,Cash loans,F,N,Y,0,117000.0,505246.5,48100.5,486000.0,Family,Pensioner,Secondary / secondary special,Separated,House / apartment,0.0066709999999999,-23531,365243,-14971.0
+0,Cash loans,M,Y,N,0,180000.0,276813.0,29943.0,256500.0,Unaccompanied,Working,Secondary / secondary special,Married,Rented apartment,0.0038179999999999,-9641,-192,-625.0
+0,Revolving loans,F,N,N,1,180000.0,405000.0,20250.0,405000.0,Unaccompanied,Commercial associate,Higher education,Married,With parents,0.035792,-14687,-637,-5750.0
+1,Cash loans,F,N,Y,1,135000.0,599778.0,32665.5,477000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.04622,-15956,-888,-8898.0
+0,Cash loans,M,Y,Y,2,315000.0,375408.0,29790.0,297000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.008019,-12272,-2319,-4261.0
+0,Revolving loans,F,N,N,0,90000.0,270000.0,13500.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.010032,-15548,-1653,-9549.0
+0,Revolving loans,F,Y,Y,0,81000.0,180000.0,9000.0,180000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.010643,-9610,-936,-8635.0
+0,Cash loans,F,N,Y,0,157500.0,900000.0,26446.5,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.015221,-18733,-1510,-1306.0
+0,Cash loans,M,Y,Y,0,112500.0,900000.0,35824.5,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.026392,-18466,-4473,-10673.0
+0,Cash loans,F,N,Y,0,225000.0,1467612.0,58203.0,1350000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.035792,-19457,-703,-7619.0
+0,Revolving loans,M,Y,Y,0,382500.0,180000.0,9000.0,180000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,House / apartment,0.035792,-10596,-917,-406.0
+0,Cash loans,F,N,Y,0,234000.0,781920.0,25101.0,675000.0,Family,Pensioner,Higher education,Widow,House / apartment,0.018634,-22201,365243,-7230.0
+0,Cash loans,M,Y,Y,0,225000.0,1467612.0,58333.5,1350000.0,Unaccompanied,Pensioner,Incomplete higher,Married,House / apartment,0.031329,-18476,365243,-770.0
+0,Revolving loans,F,N,Y,0,135000.0,180000.0,9000.0,180000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.022625,-10025,-368,-1029.0
+0,Revolving loans,M,Y,Y,1,144000.0,180000.0,9000.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Separated,With parents,0.030755,-14362,-1045,-2779.0
+0,Cash loans,F,N,Y,3,225000.0,715095.0,53595.0,675000.0,Family,Commercial associate,Secondary / secondary special,Married,House / apartment,0.035792,-14996,-1974,-668.0
+0,Cash loans,M,Y,Y,0,180000.0,640080.0,31261.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018801,-11266,-3079,-5187.0
+0,Cash loans,F,N,N,0,135000.0,343800.0,11304.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,Municipal apartment,0.009334,-15653,-288,-4287.0
+0,Revolving loans,M,Y,N,0,76500.0,180000.0,9000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.025164,-9660,-1490,-2256.0
+0,Cash loans,M,N,N,0,135000.0,90000.0,10152.0,90000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,Rented apartment,0.018209,-8837,-738,-3569.0
+0,Revolving loans,F,N,Y,0,67500.0,202500.0,10125.0,202500.0,Unaccompanied,Pensioner,Higher education,Married,House / apartment,0.006207,-22420,365243,-6385.0
+1,Cash loans,M,Y,Y,0,90000.0,760225.5,30280.5,679500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018634,-17396,-658,-1453.0
+0,Cash loans,F,N,Y,0,94500.0,820453.5,44640.0,652500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.006305,-20042,-1933,-6067.0
+0,Revolving loans,F,N,Y,1,99000.0,315000.0,15750.0,315000.0,Unaccompanied,Working,Higher education,Civil marriage,House / apartment,0.018634,-15306,-1916,-9354.0
+1,Cash loans,M,Y,Y,0,90000.0,414792.0,22630.5,315000.0,Other_A,Working,Secondary / secondary special,Single / not married,House / apartment,0.010276,-13739,-391,-47.0
+0,Cash loans,F,N,Y,2,202500.0,312840.0,18090.0,247500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.031329,-13994,-4348,-2281.0
+0,Cash loans,M,N,Y,0,148500.0,900000.0,32458.5,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.015221,-19738,-1877,-3974.0
+0,Cash loans,F,Y,N,0,360000.0,225000.0,24363.0,225000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.072508,-11746,-375,-3052.0
+0,Cash loans,M,Y,Y,0,202500.0,855000.0,30420.0,855000.0,Unaccompanied,Working,Lower secondary,Married,House / apartment,0.014464,-20793,-828,-7242.0
+0,Cash loans,F,N,N,2,45000.0,224149.5,23665.5,193500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.031329,-10139,-1081,-1781.0
+0,Cash loans,F,N,N,1,112500.0,128092.5,10399.5,103500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.009334,-13665,-592,-972.0
+0,Cash loans,F,N,Y,0,49500.0,180000.0,6462.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0096569999999999,-17173,-6038,-8106.0
+0,Revolving loans,F,N,N,0,90000.0,180000.0,9000.0,180000.0,Other_B,Working,Secondary / secondary special,Single / not married,House / apartment,0.025164,-8909,-1004,-1990.0
+0,Cash loans,M,N,N,0,135000.0,679500.0,27076.5,679500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,With parents,0.0228,-16494,-1323,-7858.0
+0,Cash loans,M,N,Y,0,202500.0,157500.0,18819.0,157500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0145199999999999,-10555,-1326,-4931.0
+0,Cash loans,F,N,Y,0,67500.0,454500.0,21996.0,454500.0,Children,Working,Secondary / secondary special,Married,House / apartment,0.026392,-19852,-121,-5812.0
+0,Cash loans,F,N,Y,0,225000.0,418500.0,30582.0,418500.0,Unaccompanied,Pensioner,Higher education,Married,House / apartment,0.018209,-20565,365243,-5402.0
+0,Cash loans,F,N,N,0,225000.0,479353.5,32161.5,391500.0,Unaccompanied,Working,Secondary / secondary special,Separated,Municipal apartment,0.008019,-18215,-5892,-402.0
+0,Cash loans,F,Y,N,0,157500.0,542133.0,29011.5,468000.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.010147,-18511,-1298,-10080.0
+0,Cash loans,F,N,Y,0,157500.0,817560.0,29362.5,675000.0,Unaccompanied,State servant,Higher education,Married,House / apartment,0.01885,-14577,-1508,-3545.0
+0,Cash loans,M,Y,Y,0,270000.0,500490.0,54031.5,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.010643,-11723,-707,-740.0
+0,Cash loans,F,N,Y,0,126000.0,272520.0,17563.5,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.010556,-20516,-4916,-2325.0
+0,Cash loans,F,N,Y,0,292500.0,261000.0,27535.5,261000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.018209,-19411,-932,-5024.0
+0,Revolving loans,M,Y,Y,0,157500.0,180000.0,9000.0,180000.0,Unaccompanied,State servant,Higher education,Single / not married,House / apartment,0.04622,-8035,-1353,-2914.0
+0,Cash loans,F,N,Y,0,76500.0,148500.0,11731.5,148500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.030755,-10752,-3593,-4851.0
+0,Cash loans,F,Y,Y,0,157500.0,675000.0,21906.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.026392,-14064,-7367,-7984.0
+0,Cash loans,F,N,N,0,112500.0,1293502.5,34249.5,1129500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,Office apartment,0.015221,-19581,-9302,-5683.0
+0,Cash loans,F,N,N,0,270000.0,1282500.0,41373.0,1282500.0,Unaccompanied,Commercial associate,Lower secondary,Married,House / apartment,0.04622,-15329,-1534,-4557.0
+0,Cash loans,F,Y,Y,0,247500.0,312768.0,24691.5,270000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.072508,-12713,-3834,-6814.0
+0,Cash loans,M,N,Y,0,135000.0,199080.0,12852.0,157500.0,Unaccompanied,Working,Incomplete higher,Single / not married,With parents,0.018634,-9373,-366,-8977.0
+0,Cash loans,F,N,Y,1,225000.0,497520.0,46170.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.008019,-15122,-2970,-9198.0
+0,Cash loans,F,N,Y,0,180000.0,189000.0,14931.0,189000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.01885,-15218,-96,-2842.0
+0,Cash loans,F,N,N,2,205348.5,630000.0,23346.0,630000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.025164,-11527,-4044,-2847.0
+0,Cash loans,F,N,N,0,112500.0,337500.0,14296.5,337500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.015221,-17529,-495,-5991.0
+0,Cash loans,F,N,Y,0,180000.0,1546020.0,42642.0,1350000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0.032561,-19856,-6843,-4836.0
+0,Cash loans,M,N,Y,0,103500.0,450000.0,27324.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.028663,-15622,-2926,-3709.0
+0,Cash loans,F,N,N,0,112500.0,257391.0,16771.5,238500.0,Family,Pensioner,Higher education,Married,House / apartment,0.016612,-24974,365243,-11787.0
+0,Cash loans,F,N,N,0,76500.0,135000.0,6624.0,135000.0,Unaccompanied,Pensioner,Secondary / secondary special,Widow,Municipal apartment,0.007305,-20766,365243,-4115.0
+0,Cash loans,F,N,N,0,126000.0,518562.0,24948.0,463500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0196889999999999,-15026,-2916,-2626.0
+0,Cash loans,F,N,N,0,180000.0,1032093.0,43726.5,922500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,With parents,0.010643,-15200,-230,-716.0
+0,Cash loans,M,Y,Y,0,206100.0,284400.0,19134.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.0228,-11865,-318,-6013.0
+0,Cash loans,F,N,Y,0,184500.0,1913148.0,50598.0,1710000.0,Family,Pensioner,Secondary / secondary special,Married,House / apartment,0.025164,-21798,365243,-42.0
+0,Cash loans,M,Y,Y,1,135000.0,625536.0,22468.5,540000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.019101,-11037,-1142,-5145.0
+0,Cash loans,M,Y,Y,0,202500.0,405000.0,20808.0,405000.0,Unaccompanied,State servant,Higher education,Married,House / apartment,0.015221,-10404,-2828,-3183.0
+0,Cash loans,F,N,Y,0,157500.0,888840.0,32053.5,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.030755,-18287,-1042,-6536.0
+0,Cash loans,M,Y,N,0,405000.0,1125000.0,33025.5,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.0035409999999999,-20864,-4997,-5311.0
+1,Cash loans,F,N,Y,1,76500.0,284400.0,19134.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Married,House / apartment,0.031329,-8998,-1575,-8982.0
+0,Cash loans,M,N,N,0,270000.0,450000.0,21649.5,450000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.04622,-10083,-245,-2079.0
+0,Cash loans,M,N,Y,0,234000.0,835380.0,40189.5,675000.0,Unaccompanied,State servant,Secondary / secondary special,Married,House / apartment,0.001276,-21847,-4683,-4984.0
+1,Cash loans,M,N,Y,0,225000.0,824823.0,24246.0,688500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.022625,-14223,-1078,-5147.0
+0,Cash loans,F,N,Y,0,405000.0,664569.0,32098.5,594000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.022625,-21959,-765,-3466.0
+0,Cash loans,F,N,Y,1,171000.0,448056.0,21015.0,315000.0,Unaccompanied,Working,Lower secondary,Married,House / apartment,0.001276,-11136,-1413,-5230.0
+0,Cash loans,F,Y,N,0,90000.0,755190.0,38556.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.025164,-19512,-1153,-11741.0
+0,Cash loans,M,Y,Y,0,135000.0,225000.0,24232.5,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.018801,-10966,-3485,-4976.0
+0,Cash loans,F,N,Y,0,112500.0,332946.0,16146.0,238500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.031329,-15083,-4912,-10.0
+0,Revolving loans,F,Y,N,0,90000.0,247500.0,12375.0,247500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.028663,-10499,-2765,-4070.0
+0,Cash loans,M,Y,N,1,324000.0,536917.5,32976.0,463500.0,Unaccompanied,State servant,Secondary / secondary special,Married,Office apartment,0.008068,-16100,-6124,-2870.0
+0,Cash loans,F,N,Y,2,247500.0,254700.0,30357.0,225000.0,Unaccompanied,Commercial associate,Higher education,Married,House / apartment,0.006629,-11150,-2783,-3579.0
+0,Cash loans,F,N,Y,0,135000.0,263686.5,28525.5,238500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.018801,-14637,-245,-2518.0
+1,Cash loans,F,N,Y,2,225000.0,1615968.0,50868.0,1395000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.020246,-16373,-1571,-4300.0
+0,Cash loans,F,N,Y,0,85500.0,337500.0,14427.0,337500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,House / apartment,0.015221,-18784,-8602,-1854.0
+0,Cash loans,F,N,N,0,180000.0,1467612.0,62311.5,1350000.0,Unaccompanied,Working,Secondary / secondary special,Married,Municipal apartment,0.04622,-12181,-872,-283.0
+0,Cash loans,F,N,Y,0,135000.0,555273.0,18040.5,463500.0,Children,Commercial associate,Lower secondary,Married,House / apartment,0.00712,-19198,-1655,-8613.0
+1,Cash loans,F,N,Y,3,99000.0,751842.0,31986.0,607500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.008068,-12252,-161,-6277.0
+0,Cash loans,F,N,Y,0,121500.0,894766.5,29700.0,679500.0,"Spouse, partner",Pensioner,Secondary / secondary special,Married,House / apartment,0.0096569999999999,-21416,365243,-7027.0
+0,Revolving loans,F,N,Y,0,112500.0,337500.0,16875.0,337500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.031329,-15212,-8546,-8225.0
+0,Cash loans,F,N,Y,0,112500.0,315000.0,32404.5,315000.0,Unaccompanied,Pensioner,Secondary / secondary special,Separated,House / apartment,0.026392,-21529,365243,-1866.0
+1,Cash loans,M,Y,N,0,180000.0,927252.0,24588.0,774000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,House / apartment,0.008575,-11102,-484,-4617.0
+0,Cash loans,F,N,Y,0,135000.0,420588.0,30042.0,360000.0,Unaccompanied,Working,Higher education,Married,House / apartment,0.002042,-12834,-1386,-813.0
+0,Cash loans,M,Y,Y,0,225000.0,202500.0,15268.5,202500.0,Unaccompanied,Working,Secondary / secondary special,Married,House / apartment,0.026392,-17526,-2948,-3317.0
+0,Cash loans,F,N,N,1,202500.0,814041.0,23800.5,679500.0,Unaccompanied,Pensioner,Secondary / secondary special,Married,House / apartment,0.0228,-18405,365243,-4734.0
+0,Revolving loans,F,N,Y,0,90000.0,202500.0,10125.0,202500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,House / apartment,0.005144,-18960,-428,-787.0
+0,Revolving loans,F,N,N,0,72000.0,157500.0,7875.0,157500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,House / apartment,0.008068,-18097,-3970,-6309.0
+0,Cash loans,M,Y,Y,0,225000.0,265500.0,20677.5,265500.0,Family,Working,Secondary / secondary special,Married,House / apartment,0.018209,-16266,-972,-8959.0
+0,Cash loans,F,N,N,0,112500.0,254700.0,14751.0,225000.0,Unaccompanied,Working,Lower secondary,Single / not married,House / apartment,0.030755,-23923,-2750,-4842.0
