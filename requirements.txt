@@ -20,6 +20,7 @@ jupyter-contrib-nbextensions
 nbconvert 
 
 black
+jupyter[black]
 pytest
 
 pandarallel
