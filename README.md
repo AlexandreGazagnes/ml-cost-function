@@ -1,4 +1,8 @@
+
+![picsou](./assets/image.png)
+
 # ml-cost-function
+
 
 *regarding the kaggle competion [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk), P9 for Data Scientist @OpenclassRooms*
 
